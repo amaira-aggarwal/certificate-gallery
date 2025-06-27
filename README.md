@@ -1,2 +1,1 @@
-#My-Certificates
-I simple page to show case my all certifications to all
+I created a simple page to showcase my all certifications at one place.
